@@ -11,7 +11,6 @@ This program is designed to demonstrate the use of Java classes to create a voti
 
 - Supports multiple-choice and true/false questions.
 - Randomly generates students and their answers.
-- Displays results with correct answer indicators.
 
 ## Classes
 
