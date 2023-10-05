@@ -3,18 +3,6 @@
 # Overview
 This Java program simulates a voting system where students can submit their answers to multiple-choice and true/false questions.
 
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Classes](#classes)
-- [How to Run](#how-to-run)
-- [Example Output](#example-output)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Description
 
 This program is designed to demonstrate the use of Java classes to create a voting system. It includes classes for managing questions, answers, students, and the voting service. The system allows students to submit their answers and displays the results.
